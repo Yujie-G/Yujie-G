@@ -1,10 +1,10 @@
-## Hi there 👋 I'm Guo Yujie.
+## 👋 Hi there！ I'm Guo Yujie.
 
 - :school: I’m currently a sophomore in Nankai University, :cn:China.
 - 🌱 I’m studying Software Engineering at the School of Software.
 - 🔭 My research interests include computer vision, AI security and interpretability.
 
-## Skills
+## ⚡ Skills
 
 - HTML/CSS
 - MATLAB
