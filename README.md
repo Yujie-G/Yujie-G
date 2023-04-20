@@ -2,7 +2,7 @@
 
 - :school: I’m currently a sophomore in Nankai University, :cn:China.
 - 🌱 I’m studying Software Engineering at the School of Software.
-- 🔭 My research interests include computer vision, AI security and interpretability.
+- 🔭 My research interests include computer vision, explainable AI and AI safety.
 
 ## ⚡ Skills
 
