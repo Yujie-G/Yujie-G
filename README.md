@@ -6,7 +6,7 @@
 
 ## ⚡ Skills
 
-- HTML/CSS
+- HTML/CSS/JavaScript
 - MATLAB
 - C/C++
 - Java
