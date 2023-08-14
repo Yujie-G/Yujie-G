@@ -285,13 +285,14 @@ html {
     font-size: 1.3em;
 }
 
+/* QR_code */
 .social-network li {
     position: relative;
 }
 
 .social-network img.hidden {
     position: absolute;
-    top: 0px;
+    top: 40px;
     left: -30px;
     display: none;
 }
@@ -300,6 +301,7 @@ html {
     display: block;
     width: 100px;
     height: 100px;
+    z-index: 2;
 }
 
 /* Section */
