@@ -1,8 +1,8 @@
 ## 👋 Hi there！ I'm Guo Yujie.
 
-- :school: I’m currently a sophomore in Nankai University, :cn:China.
+- :school: I’m currently a junior student in Nankai University, :cn:China.
 - 🌱 I’m studying Software Engineering at the School of Software.
-- 🔭 My research interests include computer vision, explainable AI and AI safety.
+- 🔭 My research interests include computer vision, computer graphics and AI safety.
 
 ## ⚡ Skills
 
@@ -15,7 +15,7 @@
 
 ## 📫 Contact
 
-You can reach me at YujieGuo0012@gmail.com.
+You can reach me at yujieguo0012@gmail.com.
 
 <!--
 **Yujie-G/Yujie-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
