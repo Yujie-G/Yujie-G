@@ -4,6 +4,7 @@
 - 🌱 I’m studying Software Engineering at the School of Software.
 - 🔭 My research interests include computer vision, computer graphics and AI safety.
 
+click [here](http:guoyujie.cn) to view my personal website
 ## ⚡ Skills
 
 - HTML/CSS/JavaScript
