@@ -2,9 +2,10 @@
 
 - :school: I’m currently a junior student in Nankai University, :cn:China.
 - 🌱 I’m studying Software Engineering at the School of Software.
-- 🔭 My research interests include computer vision, computer graphics and AI safety.
+- 🔭 My research interests include computer vision, computer graphics.
 
 click [here](http:guoyujie.cn) to view my personal website
+
 ## ⚡ Skills
 
 - HTML/CSS/JavaScript
