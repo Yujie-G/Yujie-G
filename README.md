@@ -1,6 +1,6 @@
 ## 👋 Hi there！
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yujie-g&left_color=green&right_color=red)
 
 - :school: I’m currently a junior student in Nankai University, :cn:China.
 - 🌱 I’m studying Software Engineering at the Colleage of Software.
