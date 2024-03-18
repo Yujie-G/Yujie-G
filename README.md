@@ -1,11 +1,11 @@
 ## 👋 Hi there！
 
+[//]: <> (<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=Yujie-G.Yujie-G09034023" /> </div>)
 
-<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=Yujie-G.Yujie-G" /> </div>
 
-:school: I’m currently a junior student in Nankai University, :cn:China, majoring in software engineering. 
+:school: I’m currently a junior student in Nankai University, :cn:, majoring in software engineering. 
 
-I am currently researching in the field of computer graphics and computer vision.
+Researching in the field of computer graphics and computer vision.
 
 
 click [[here]](http:guoyujie.cn) to view my personal website!
